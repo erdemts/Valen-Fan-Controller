@@ -1,0 +1,21 @@
+_lineLow: CODE, 1551 0 8
+_vInitializeUart: CODE, 905 0 23
+_putch: CODE, 891 0 6
+_lineHigh: CODE, 1540 0 11
+_vCheckError: CODE, 1091 0 9
+_oneWireReset: CODE, 1437 0 35
+_main: CODE, 1581 0 467
+_erdem: CODE, 1005 0 86
+_oneWireWriteByte: CODE, 1397 0 40
+_oneWireReadBit: CODE, 1303 0 25
+___lwdiv: CODE, 1225 0 42
+_vInitializeBoard: CODE, 966 0 39
+___lwmod: CODE, 1267 0 36
+_refreshTemperature: CODE, 1328 0 69
+_cGetFromTxBuffer: CODE, 1113 0 13
+_oneWireReadByte: CODE, 1472 0 35
+_oneWireWriteBit: CODE, 1507 0 33
+_itoa: CODE, 1126 0 24
+_utoa: CODE, 1150 0 75
+_vAddToUartReceiveBuffer: CODE, 1100 0 13
+Total: 1089

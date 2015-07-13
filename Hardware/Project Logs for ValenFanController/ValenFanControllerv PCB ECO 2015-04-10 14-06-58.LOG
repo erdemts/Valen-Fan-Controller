@@ -1,0 +1,57 @@
+Added Pin To Net: NetName=VOUT Pin=C8-1
+Added Pin To Net: NetName=VOUT Pin=C10-1
+Added Pin To Net: NetName=VOUT Pin=C12-2
+Added Pin To Net: NetName=VOUT Pin=C14-2
+Added Pin To Net: NetName=VOUT Pin=Q5-5
+Added Pin To Net: NetName=VOUT Pin=Q5-5
+Added Pin To Net: NetName=VOUT Pin=Q5-5
+Added Pin To Net: NetName=VOUT Pin=Q5-5
+Added Pin To Net: NetName=VOUT Pin=Q5-5
+Added Pin To Net: NetName=VOUT Pin=Q5-5
+Added Pin To Net: NetName=VOUT Pin=Q5-5
+Added Pin To Net: NetName=VOUT Pin=Q5-5
+Added Pin To Net: NetName=VOUT Pin=Q5-5
+Added Pin To Net: NetName=VOUT Pin=Q5-5
+Added Pin To Net: NetName=VOUT Pin=Q5-5
+Added Pin To Net: NetName=VOUT Pin=Q5-5
+Added Pin To Net: NetName=VOUT Pin=Q5-5
+Added Pin To Net: NetName=VOUT Pin=Q5-5
+Added Pin To Net: NetName=VOUT Pin=Q5-6
+Added Pin To Net: NetName=VOUT Pin=Q5-7
+Added Pin To Net: NetName=VOUT Pin=Q5-8
+Added Pin To Net: NetName=VOUT Pin=Q6-5
+Added Pin To Net: NetName=VOUT Pin=Q6-5
+Added Pin To Net: NetName=VOUT Pin=Q6-5
+Added Pin To Net: NetName=VOUT Pin=Q6-5
+Added Pin To Net: NetName=VOUT Pin=Q6-5
+Added Pin To Net: NetName=VOUT Pin=Q6-5
+Added Pin To Net: NetName=VOUT Pin=Q6-5
+Added Pin To Net: NetName=VOUT Pin=Q6-5
+Added Pin To Net: NetName=VOUT Pin=Q6-5
+Added Pin To Net: NetName=VOUT Pin=Q6-5
+Added Pin To Net: NetName=VOUT Pin=Q6-5
+Added Pin To Net: NetName=VOUT Pin=Q6-5
+Added Pin To Net: NetName=VOUT Pin=Q6-5
+Added Pin To Net: NetName=VOUT Pin=Q6-5
+Added Pin To Net: NetName=VOUT Pin=Q6-6
+Added Pin To Net: NetName=VOUT Pin=Q6-7
+Added Pin To Net: NetName=VOUT Pin=Q6-8
+Added Pin To Net: NetName=VOUT Pin=U2-2
+Added Pin To Net: NetName=VOUT Pin=U2-3
+Added Pin To Net: NetName=VOUT Pin=U2-13
+Added Pin To Net: NetName=VOUT Pin=U2-14
+Added Pin To Net: NetName=VOUT Pin=U2-23
+Added Pin To Net: NetName=VOUT Pin=U2-31
+Added Pin To Net: NetName=VOUT Pin=U3-2
+Added Pin To Net: NetName=VOUT Pin=U3-3
+Added Pin To Net: NetName=VOUT Pin=U3-13
+Added Pin To Net: NetName=VOUT Pin=U3-14
+Added Pin To Net: NetName=VOUT Pin=U3-23
+Added Pin To Net: NetName=VOUT Pin=U3-31
+Added Room: Name=Connectors
+Added Room: Name=IO
+Added Room: Name=Main
+Added Room: Name=MotorController
+Added Room: Name=POWER
+Added Room: Name=Sensor
+Added Room: Name=USART

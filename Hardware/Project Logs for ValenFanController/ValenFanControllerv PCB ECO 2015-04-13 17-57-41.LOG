@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetR16_1 Pin=U1-24
+Removed Pin From Net: NetName=NetR14_1 Pin=U1-25
+Removed Pin From Net: NetName=NetR12_1 Pin=U1-26
+Removed Pin From Net: NetName=NetC16_2 Pin=U1-27
+Added Pin To Net: NetName=VOUT Pin=Q5-6
+Added Pin To Net: NetName=VOUT Pin=Q5-7
+Added Pin To Net: NetName=VOUT Pin=Q5-8
+Added Pin To Net: NetName=VOUT Pin=Q6-6
+Added Pin To Net: NetName=VOUT Pin=Q6-7
+Added Pin To Net: NetName=VOUT Pin=Q6-8
+Added Pin To Net: NetName=NetR16_1 Pin=U1-2
+Added Pin To Net: NetName=NetR12_1 Pin=U1-3
+Added Pin To Net: NetName=NetC16_2 Pin=U1-4
+Added Pin To Net: NetName=NetR14_1 Pin=U1-5
+Added Room: Name=Connectors
+Added Room: Name=IO
+Added Room: Name=Main
+Added Room: Name=MotorController
+Added Room: Name=POWER
+Added Room: Name=Sensor
+Added Room: Name=USART

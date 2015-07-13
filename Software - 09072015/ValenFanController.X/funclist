@@ -1,0 +1,24 @@
+_vInitializeUart: CODE, 496 0 23
+_putch: CODE, 438 0 7
+___ftpack: CODE, 1313 0 62
+_vCheckError: CODE, 744 0 9
+_main: CODE, 1499 0 549
+___lwtoft: CODE, 1375 0 16
+_erdem: CODE, 659 0 85
+___lwdiv: CODE, 878 0 42
+_vInitializeBoard: CODE, 556 0 46
+_cGetFromReceiveBuffer: CODE, 453 0 13
+_vInitializeADC: CODE, 480 0 16
+_read_ADC: CODE, 1070 0 28
+___lwmod: CODE, 920 0 36
+_cGetFromTxBuffer: CODE, 766 0 13
+_getTemperature: CODE, 956 0 114
+___ftmul: CODE, 1202 0 111
+_itoa: CODE, 779 0 24
+_vInitializeVHN5019: CODE, 602 0 57
+___fttol: CODE, 1391 0 91
+_utoa: CODE, 803 0 75
+_vAddToUartReceiveBuffer: CODE, 753 0 13
+___bmul: CODE, 466 0 14
+___ftdiv: CODE, 1098 0 104
+Total: 1548

@@ -1,0 +1,39 @@
+Added Pin To Net: NetName=NetC8_1 Pin=Q5-5
+Added Pin To Net: NetName=NetC8_1 Pin=Q5-5
+Added Pin To Net: NetName=NetC8_1 Pin=Q5-5
+Added Pin To Net: NetName=NetC8_1 Pin=Q5-5
+Added Pin To Net: NetName=NetC8_1 Pin=Q5-5
+Added Pin To Net: NetName=NetC8_1 Pin=Q5-5
+Added Pin To Net: NetName=NetC8_1 Pin=Q5-5
+Added Pin To Net: NetName=NetC8_1 Pin=Q5-5
+Added Pin To Net: NetName=NetC8_1 Pin=Q5-5
+Added Pin To Net: NetName=NetC8_1 Pin=Q5-5
+Added Pin To Net: NetName=NetC8_1 Pin=Q5-5
+Added Pin To Net: NetName=NetC8_1 Pin=Q5-5
+Added Pin To Net: NetName=NetC8_1 Pin=Q5-5
+Added Pin To Net: NetName=NetC8_1 Pin=Q5-6
+Added Pin To Net: NetName=NetC8_1 Pin=Q5-7
+Added Pin To Net: NetName=NetC8_1 Pin=Q5-8
+Added Pin To Net: NetName=NetC10_1 Pin=Q6-5
+Added Pin To Net: NetName=NetC10_1 Pin=Q6-5
+Added Pin To Net: NetName=NetC10_1 Pin=Q6-5
+Added Pin To Net: NetName=NetC10_1 Pin=Q6-5
+Added Pin To Net: NetName=NetC10_1 Pin=Q6-5
+Added Pin To Net: NetName=NetC10_1 Pin=Q6-5
+Added Pin To Net: NetName=NetC10_1 Pin=Q6-5
+Added Pin To Net: NetName=NetC10_1 Pin=Q6-5
+Added Pin To Net: NetName=NetC10_1 Pin=Q6-5
+Added Pin To Net: NetName=NetC10_1 Pin=Q6-5
+Added Pin To Net: NetName=NetC10_1 Pin=Q6-5
+Added Pin To Net: NetName=NetC10_1 Pin=Q6-5
+Added Pin To Net: NetName=NetC10_1 Pin=Q6-5
+Added Pin To Net: NetName=NetC10_1 Pin=Q6-6
+Added Pin To Net: NetName=NetC10_1 Pin=Q6-7
+Added Pin To Net: NetName=NetC10_1 Pin=Q6-8
+Added Room: Name=Connectors
+Added Room: Name=IO
+Added Room: Name=Main
+Added Room: Name=MotorController
+Added Room: Name=POWER
+Added Room: Name=Sensor
+Added Room: Name=USART

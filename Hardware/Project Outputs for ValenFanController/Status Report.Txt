@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ValenFanController.PrjPCB]
+   Generated File[ValenFanControllerPanel.TXT]
+   Generated File[ValenFanControllerPanel.DRL]
+   Generated File[ValenFanControllerPanel.LDP]
+   Generated File[ValenFanControllerPanel.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:00:03 On 07.07.2015

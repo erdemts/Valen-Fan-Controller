@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ValenFanControllerPanel.PcbDoc   07.07.2015  12:00:02
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ValenFanControllerPanel.TXT
+EIA File   : ValenFanControllerPanel.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.6mm (23.622mil)        Round          484              8423.69 mm (331.64 Inch)
+T2        0.7mm (27.559mil)        Round          314              8962.75 mm (352.86 Inch)
+T3        0.8mm (31.496mil)        Round          22               7406.00 mm (291.57 Inch)
+T4        1mm (39.37mil)           Round          58               8403.43 mm (330.84 Inch)
+T5        1.3mm (51.181mil)        Round          6                7381.12 mm (290.60 Inch)
+T6        1.7mm (66.929mil)        Round          88               8086.29 mm (318.36 Inch)
+T7        3.26mm (128.346mil)      Round          4                7436.75 mm (292.79 Inch)
+T8        4mm (157.48mil)          Round          8                7989.65 mm (314.55 Inch)
+T9        2.55mm (100.394mil)      Round          4         NPTH   7726.16 mm (304.18 Inch)
+---------------------------------------------------------------------------
+Totals                                            988              71815.84 mm (2827.40 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

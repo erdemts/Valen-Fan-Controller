@@ -1,0 +1,42 @@
+Field=Comment~String~Comment~111|Field=Description~String~Description~114|Field=Designator~String~Designator~119|Field=Footprint~String~Footprint~130|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|Field=Value~String~Value~100|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~ValenFanController.PrjPCB|ReportField=ProjectFullPath~D:\Projeler2015\Valen Fan Controller\Hardware\ValenFanController.PrjPCB|ReportField=Title~Bill of Materials For Project [ValenFanController.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~103|ReportField=ReportTime~09:44:21|ReportField=ReportDate~13.05.2015|ReportField=ReportDateTime~13.05.2015 09:44:21|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~13.05.2015|ReportField=CurrentTime~09:43:47|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Projeler2015\Valen Fan Controller\Hardware\Connectors.SchDoc|ReportField=DocumentName~Connectors.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~13.04.2015|ReportField=Organization~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~ValenFanController.PrjPCB|ReportField=DataSourceFullPath~D:\Projeler2015\Valen Fan Controller\Hardware\ValenFanController.PrjPCB
+Cap|Capacitor|C1, C6, C18, C20, C21, C22, C24|3-0603_L|Cap|7|100nF
+CAP-Tantal|Tantamount Military, Surface Mount MIL-PRF-55365/8 Qualified Solid Tantalum Chip Capacitor: 6.8uF, 20% Tolerance, 6 WVDC @ +85°C, Surge = 8V|C2, C27|3528|CAP-Tantal|2|22uF
+Cap|Capacitor|C3|3-0603_L|Cap|1|1nF
+Cap|Capacitor|C4, C5|3-0603_L|Cap|2|22pF
+Cap Pol1|Polarized Capacitor (Radial)|C7, C8, C9, C10|CAP D Size|Cap Pol1|4|47uF
+Cap|Capacitor|C11, C13|8-1206|Cap|2|1uF
+Cap|Capacitor|C12, C14|6-0805 - big|Cap|2|100nF
+Cap|Capacitor|C15, C16|3-0603_L|Cap|2|33nF
+Cap Pol1|Polarized Capacitor (Radial)|C17, C19|CAP Size H13= 12.5x13.8mm|Cap Pol1|2|330uF
+Cap|Capacitor|C23, C25, C26, C28|3-0603_L|Cap|4|1uF
+Connector 4973-08TRNLF|Connector 8-Pin, 90 degree, 3.5mm|CN1, CN2, CN3, CN4, CN5|Connector 4973-08TRNLF|Connector 4973-08TRNLF|5|
+Connector 4973-04TRNLF|Connector 4-Pin, 90 degree, 3.5mm|CN6|Connector 4973-04TRNLF|Connector 4973-04TRNLF|1|
+Diode 1N4007|1 Amp General Purpose Rectifier|D1, D2, D3, D4|DO214|Diode 1N4007|4|
+Yeþil Led|Typical INFRARED GaAs LED|D5|6-0805 - LED|LED|1|
+Kýrmýzý Led|Typical INFRARED GaAs LED|D6|6-0805 - LED|LED|1|
+LED|Typical INFRARED GaAs LED|D7, D8, D9, D10, D11, D13|6-0805 - LED|LED|6|
+MBRS340T3G|3 Amp Shotky Rectifier|D12, D15|CASE 403-03 ISSUE E|MBRS340T3G|2|
+TVS SMAJ48CA|TVS SMAJ48CA|D14|DO214 AA|TVS SMAJ48CA|1|
+LL4148|1 Amp General Purpose Rectifier|D16, D17|DL-35 - S|LL4148|2|
+D Connector 9|Receptacle Assembly, 9 Position, Right Angle|J5|DSUB1.385-2H9|D Connector 9|1|
+Relay SRS|Relay ALQ324|K1, K2, K3, K4|RELAY ALQ324|Relay ALQ324|4|
+Inductor|Inductor|L1|EB-221M18G01|Inductor|1|100uH
+Header 2mm 5pin|Header 2mm , 5-Pin|P1|Header 2mm 5Pin|Header 2mm 5pin|1|
+Connector DG301-5.0 - 3P|Connector, 3-Pin|P2|Connector DG301-5.0 - 3P|Connector DG301-5.0 - 3P|1|
+BCX56-16|NPN General-purpose Transistor|Q1, Q2, Q3, Q4|SOT89M|BCX56-16|4|
+AON6508|30V N-Channel AlphaMOS|Q5, Q6|DFN5x6 EP|AON6508|2|
+Res1|Resistor|R1|6-0805 - big|Res1|1|330R
+Res1|Resistor|R2|6-0805 - big|Res1|1|680R
+Res1|Resistor|R3, R4, R5, R6|6-0805|Res1|4|1K
+Res1|Resistor|R7, R9, R10, R19, R20, R21, R22, R29|3-0603_L|Res1|8|10K
+Res1|Resistor|R8, R25, R26, R30|3-0603_L|Res1|4|4.7K
+Res1|Resistor|R11, R12, R13, R14, R15, R16, R17, R18, R23, R24|3-0603_L|Res1|10|1K
+Res1|Resistor|R27|6-0805_M|Res1|1|1K
+Res1|Resistor|R28|8-1206|Res1|1|0R
+PIC16F887|EPROM-Based 8-Bit CMOS Microcontroller|U1|TQFP-44|PIC16F887|1|
+VNH5019A-E|Automotive fully integrated H-bridge motor driver|U2, U3|MultiPowerSO-30|VNH5019A-E|2|
+LM2576S-5.0|SIMPLE SWITCHER; 3A Step-Down Voltage Regulator|U4|TS5B_M|LM2576S-5.0|1|
+LM35DZ|Temperature Sensor|U5|TO-92|LM35DZ|1|
+DS18B20|1-Wire Temperature Sensor|U6|TO-92|DS18B20|1|
+MAX232ID|5V, Low-Power, up to 1Mbps, True RS-232 Transceiver Using Four 0.1µF External Capacitor|U7|SOIC16 - big|MAX232ID|1|
+XTAL_SMT|Crystal Oscillator|Y1|XTAL - SMT|XTAL_SMT|1|20MHz

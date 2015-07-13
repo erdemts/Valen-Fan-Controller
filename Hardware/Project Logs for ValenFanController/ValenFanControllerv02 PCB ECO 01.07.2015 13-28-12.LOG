@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=U5 Old Footprint=TO-92 New Footprint=TO-92 Big
+Added Pin To Net: NetName=VOUT Pin=Q5-6
+Added Pin To Net: NetName=VOUT Pin=Q5-7
+Added Pin To Net: NetName=VOUT Pin=Q5-8
+Added Pin To Net: NetName=VOUT Pin=Q6-6
+Added Pin To Net: NetName=VOUT Pin=Q6-7
+Added Pin To Net: NetName=VOUT Pin=Q6-8
